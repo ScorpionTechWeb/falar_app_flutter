@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "809648870803",
+    "project_id": "falar-5b747",
+    "storage_bucket": "falar-5b747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809648870803:android:ecf134666889d6664a4466",
+        "android_client_info": {
+          "package_name": "com.scorpiontech.falarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809648870803-4i86ur1ds1p9625ldr3odnj54uedtooi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scorpiontech.falarapp",
+            "certificate_hash": "e45a7e270813d694af83455fadcc21a2e4a8d087"
+          }
+        },
+        {
+          "client_id": "809648870803-rn1j0nm020rfe533658is58c7tvdd09u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADEonLBFJmjdKnB562Ohovi5i8YhgoEOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809648870803-rn1j0nm020rfe533658is58c7tvdd09u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
