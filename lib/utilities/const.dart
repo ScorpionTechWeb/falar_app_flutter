@@ -9,8 +9,8 @@ const String privacyURL = "${baseURL}privacyPolicy";
 const String helpURL = "http://www.yourHelpURL.com";
 const String notificationTopic = "chatter";
 
-const String revenuecatAppleApiKey = 'your_ios_revenuecat_api_key';
-const String revenuecatAndroidApiKey = '';
+const String revenuecatAppleApiKey = '';
+const String revenuecatAndroidApiKey = 'goog_iuVuunXhXicvchTQpoUBDKWrusI';
 
 const String agoraAppId = '7790240923e24323bd9b6dd1c64878c9';
 const String agoraCustomerId = 'a4d04919b5914d3896868b6bbe869d74';
