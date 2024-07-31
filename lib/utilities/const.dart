@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 const String appName = "chatter";
 const String baseURL = "https://falar.vitordias.fr/";
-const String itemBaseURL = "${baseURL}public/storage/";
+const String itemBaseURL = "${baseURL}storage/";
 const String apiURL = "${baseURL}api/";
 const String termsURL = "${baseURL}termsOfUse";
 const String privacyURL = "${baseURL}privacyPolicy";
